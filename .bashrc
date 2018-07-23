@@ -1,7 +1,5 @@
 # .bashrc
 
-# add maven to path
-export PATH="/opt/apache-maven-3.5.3/bin:$PATH"
 
 export NODE_OPTIONS=--max-old-space-size=4096
 
